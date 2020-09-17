@@ -1,5 +1,5 @@
 
-
+# 1
 a = int(input('수를 입력하세요'))
 # if (a/2) - (a/2) == 0:
 #     print('짝수')
@@ -10,7 +10,8 @@ if a % 2 == 0:
 else:
     print('홀수')
 
-#while
+# 2
+# while
 while True:
     i = input('정수를 입력하세요')
     if i == 'quit':
